@@ -109,6 +109,9 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     int m10i = 0;
 
 
+    int dfasidfaji = 0;
+
+
     //Resto Markers
     Marker mResto1;
     Marker mResto2;
